@@ -45,9 +45,9 @@ do
 	-v|--version)
 	    echo "Version: $VERSION"
 	    exit 0;;
-  -i|--indent)
-      INDCNT=$2
-      shift;;
+  	-i|--indent)
+      	    INDCNT=$2
+            shift;;
 	*)
 	    echo "Unknown argument: $key"
 	    exit 1;;
