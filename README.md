@@ -7,7 +7,7 @@ Reads JSON from standard in and pretty prints it to standard out.
 {json} | prettyjson [option]
 
 #### Options
-- -h, --help	Show helpo and usage information
+- -h, --help	Show help and usage information
 - -v, --version	Show version information
 - -i, --indent	Specify the number of added spaces per indent level
 
